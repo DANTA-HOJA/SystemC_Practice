@@ -4,8 +4,8 @@ using namespace sc_core;
 
 SC_MODULE(MODULE)
 {                              // a module write to a channel
-    // sc_port<sc_signal<int>> p; // a port
-    sc_out<int> p;
+    // sc_port<sc_signal<int>> p; // a port // write to channel via port => p->write(v++);
+    sc_out<int> p; // write to channel via port => p.write(v++);
     SC_CTOR(MODULE)
     {
         SC_THREAD(writer); // a writer process
