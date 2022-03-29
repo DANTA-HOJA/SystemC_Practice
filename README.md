@@ -19,6 +19,11 @@
     - By using the line below and add to the end of ```~/.profile```：
         ```export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:{where you unzip systemC}/systemc-2.3.0/lib-linux64```
 
+# Signal Trace file (.vcd)
+
+- To generate ```*.vcd```：[Example](https://learnsystemc.com/basic/trace)
+
+- To show ```*.vcd```：[GTKWave](http://gtkwave.sourceforge.net/) or other ```*.vcd``` viewer
 
 # Tutorial
 
