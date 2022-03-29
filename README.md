@@ -30,6 +30,6 @@
 
 1. [Learn SystemC by examples](https://learnsystemc.com/basic/hello_world)
 
-2. [SystemC Tutorial by Doulos](https://www.doulos.com/knowhow/systemc/systemc-tutorial/modules-and-processes/)
+2. [XOR by Doulos](https://www.doulos.com/knowhow/systemc/systemc-tutorial/modules-and-processes/) or [XOR by mofadiheh](https://github.com/mofadiheh/xor.systemc)
 
 3. [Video on Youtube (2013)](https://www.youtube.com/watch?v=NCFxBGLB5xs&list=PLcvQHr8v8MQLj9tCYyOw44X1PLisEsX-J&index=1)
