@@ -15,6 +15,7 @@
 - If you got ```Error while loading shared libraries: libsystemc-2.3.0.so```：[check here](https://stackoverflow.com/questions/12408882/error-while-loading-shared-libraries-libsystemc-2-3-0-so)
 
     <div style="height: 30pt"> - Solution： Add ```{where you unzip systemC}/systemc-2.3.3/lib-linux64``` at the end of  ```~/.profile```, using：</div>
+    
     ```
     export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:{where you unzip systemC}/systemc-2.3.0/lib-linux64
     ```
