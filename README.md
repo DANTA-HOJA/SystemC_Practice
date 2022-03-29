@@ -16,9 +16,9 @@
 
     - Solution： Add ```{where you unzip systemC}/systemc-2.3.3/lib-linux64``` at the end of  ```~/.profile```, using：
 
-    ```
-    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:{where you unzip systemC}/systemc-2.3.0/lib-linux64
-    ```
+        ```
+        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:{where you unzip systemC}/systemc-2.3.0/lib-linux64
+        ```
 
 # Signal Trace file (.vcd)
 
